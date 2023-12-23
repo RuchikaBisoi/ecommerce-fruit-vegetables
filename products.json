@@ -1,0 +1,57 @@
+
+   [
+            {
+                "id": 1,
+                "name":" Organic Banana",
+                "price": 200,
+                "image": "https://img.freepik.com/free-photo/yellow-banana-fruit_1203-7489.jpg?size=626&ext=jpg&ga=GA1.1.483694991.1692642380&semt=sph"
+            },
+            {
+                "id": 2,
+                "name":" Organic Oranges",
+                "price": 250,
+                "image": "https://tse4.mm.bing.net/th?id=OIP._fpL6Wo5uc-yHoUrkQEB8gHaFj&pid=Api&P=0&h=220"
+            },
+            {
+                "id": 3,
+                "name":" Red Apples",
+                "price": 290,
+                "image": "https://tse3.mm.bing.net/th?id=OIP.CgXLkfg6bOR6fT3U8jXhswHaFl&pid=Api&P=0&h=220"
+            },
+            {
+                "id": 4,
+                "name":" Organic Tomatoes",
+                "price": 200,
+                "image": "https://img.freepik.com/free-photo/tomatoes_144627-15412.jpg?size=626&ext=jpg"
+            },
+            {
+                "id": 5,
+                "name":" Fresh Peaches",
+                "price": 300,
+                "image": "https://tse2.mm.bing.net/th?id=OIP.Ti1FgiULWa06La5905GhUgHaEo&pid=Api&P=0&h=220"
+            },
+            {
+                "id": 6,
+                "name":" Organic Oranges",
+                "price": 200,
+                "image": "https://tse3.mm.bing.net/th?id=OIP.hHS7HSAJt2B2ZZ-UDS7WNwHaFQ&pid=Api&P=0&h=220"
+            },
+            {
+                "id": 7,
+                "name":" Organic Strawberry",
+                "price": 200,
+                "image": "https://tse1.mm.bing.net/th?id=OIP.W-26fgjn824_tWrXfT0CHQHaEo&pid=Api&P=0&h=220"
+            },
+            {
+                "id": 8,
+                "name":" Organic Mangoes",
+                "price": 200,
+                "image": "https://tse4.mm.bing.net/th?id=OIP.zzB-RUq1RlCFutGUbXjOJQHaFF&pid=Api&P=0&h=220"
+            }
+        
+        ]
+    
+
+
+
+
